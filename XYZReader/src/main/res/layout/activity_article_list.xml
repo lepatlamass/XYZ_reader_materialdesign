@@ -10,6 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="140dp"
         android:fitsSystemWindows="true"
+        android:elevation="@dimen/appbar_elevation"
         android:theme="@style/Theme.Bacon">
 
         <android.support.design.widget.CollapsingToolbarLayout
